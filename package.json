@@ -19,7 +19,9 @@
         "react-native-vector-icons": "6.6.0"
     },
     "devDependencies": {
-        "rnv": "0.28.17",
-        "renative-template-hello-world": "0.28.17"
+        "eslint": "^6.8.0",
+        "prettier": "^1.19.1",
+        "renative-template-hello-world": "0.28.17",
+        "rnv": "0.28.17"
     }
 }
