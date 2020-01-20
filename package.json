@@ -1,0 +1,25 @@
+{
+    "name": "soubol",
+    "version": "0.1.0",
+    "dependencies": {
+        "renative": "0.28.17",
+        "react": "16.9.0",
+        "react-art": "16.9.0",
+        "react-dom": "16.9.0",
+        "react-native": "0.61.2",
+        "react-native-web": "0.11.7",
+        "react-native-web-image-loader": "0.0.5",
+        "react-native-gesture-handler": "1.4.1",
+        "react-navigation": "3.9.2",
+        "@react-navigation/core": "3.4.2",
+        "@react-navigation/native": "3.5.0",
+        "@react-navigation/web": "1.0.0-alpha.9",
+        "react-navigation-tabs": "2.0.0-alpha.0",
+        "react-native-reanimated": "1.0.0-alpha.12",
+        "react-native-vector-icons": "6.6.0"
+    },
+    "devDependencies": {
+        "rnv": "0.28.17",
+        "renative-template-hello-world": "0.28.17"
+    }
+}
