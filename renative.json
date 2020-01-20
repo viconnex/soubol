@@ -1,0 +1,26 @@
+{
+    "projectName": "soubol",
+    "workspaceID": "rnv",
+    "paths": {
+        "appConfigsDir": "./appConfigs",
+        "platformTemplatesDir": "$RNV_HOME/platformTemplates",
+        "entryDir": "./",
+        "platformAssetsDir": "./platformAssets",
+        "platformBuildsDir": "./platformBuilds",
+        "projectConfigDir": "./projectConfig"
+    },
+    "defaults": {
+        "title": "Soubol",
+        "id": "com.soubol.app",
+        "supportedPlatforms": [
+            "androidwear"
+        ]
+    },
+    "templates": {
+        "renative-template-hello-world": {
+            "version": "0.28.17"
+        }
+    },
+    "currentTemplate": "renative-template-hello-world",
+    "isNew": true
+}
